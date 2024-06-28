@@ -1,0 +1,18 @@
+{
+  "name": "atividade-pc1",
+  "version": "1.0.0",
+  "description": "projeto meu",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx watch src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "author": "elaynne",
+  "license": "ISC",
+  "dependencies": {
+    "tsup": "^8.0.2",
+    "tsx": "^4.9.4",
+    "typescript": "^5.4.5"
+  }
+}

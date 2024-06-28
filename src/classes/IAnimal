@@ -1,0 +1,8 @@
+export interface IAnimal {
+    nome: string
+    especie: string
+    idede: number
+
+    nascer(): void
+    morrer(): void
+}

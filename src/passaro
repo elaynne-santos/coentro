@@ -1,0 +1,14 @@
+
+// class passaro  implements IAnimal{
+//     nome: string
+//     especie: string
+//     idade: number
+
+//     nascer() {
+//         console.log('o passaro $(this.nome) nasceu')
+//     }
+
+//     morrer(){
+//         console.log('o passaro $(this.nome) morreu')
+//     }
+// }
